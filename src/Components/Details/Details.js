@@ -11,7 +11,7 @@ import female from '../../Photo/female.png';
 import facebook from '../../Icon/Facebook.png';
 import twitter from '../../Icon/Twitter.png';
 import youtube from '../../Icon/YouTube.png';
-import { Link } from 'react-router-dom';
+
 
 const Details = () => {
 	const { id } = useParams();
