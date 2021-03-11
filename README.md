@@ -1,4 +1,4 @@
-**Legends League
+### Legends League
 
 This site is made with:
  1.React.js
