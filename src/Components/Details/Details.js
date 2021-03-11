@@ -46,7 +46,7 @@ const Details = () => {
 				</div>
 				<div className="col-md-6">
 
-					<img className='w-100' src={strGender === 'Female' ? female : male} alt="Male player" />
+					<img className='w-100' src={strGender === 'Male' ? male : female} alt="Male player" />
 
 
 				</div>
